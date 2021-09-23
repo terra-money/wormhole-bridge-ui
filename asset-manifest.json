@@ -12,14 +12,14 @@
     "static/js/3.99a51f62.chunk.js": "/static/js/3.99a51f62.chunk.js",
     "a17ec5423a7a70a0a205.module.wasm": "/a17ec5423a7a70a0a205.module.wasm",
     "static/js/3.99a51f62.chunk.js.map": "/static/js/3.99a51f62.chunk.js.map",
-    "main.js": "/static/js/main.a386cea6.chunk.js",
-    "main.js.map": "/static/js/main.a386cea6.chunk.js.map",
+    "main.js": "/static/js/main.8a8d704a.chunk.js",
+    "main.js.map": "/static/js/main.8a8d704a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.40c5c6e4.js",
     "runtime-main.js.map": "/static/js/runtime-main.40c5c6e4.js.map",
-    "static/js/6.98085dbc.chunk.js": "/static/js/6.98085dbc.chunk.js",
-    "static/js/6.98085dbc.chunk.js.map": "/static/js/6.98085dbc.chunk.js.map",
+    "static/js/6.ce6bbbbe.chunk.js": "/static/js/6.ce6bbbbe.chunk.js",
+    "static/js/6.ce6bbbbe.chunk.js.map": "/static/js/6.ce6bbbbe.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/6.98085dbc.chunk.js.LICENSE.txt": "/static/js/6.98085dbc.chunk.js.LICENSE.txt",
+    "static/js/6.ce6bbbbe.chunk.js.LICENSE.txt": "/static/js/6.ce6bbbbe.chunk.js.LICENSE.txt",
     "static/media/eth.364436c5.svg": "/static/media/eth.364436c5.svg",
     "static/media/holev2.3d1181ab.svg": "/static/media/holev2.3d1181ab.svg",
     "static/media/overview2.9b15a139.svg": "/static/media/overview2.9b15a139.svg",
@@ -28,7 +28,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.40c5c6e4.js",
-    "static/js/6.98085dbc.chunk.js",
-    "static/js/main.a386cea6.chunk.js"
+    "static/js/6.ce6bbbbe.chunk.js",
+    "static/js/main.8a8d704a.chunk.js"
   ]
 }
