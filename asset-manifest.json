@@ -9,13 +9,13 @@
     "static/js/2.6761a4ae.chunk.js": "/static/js/2.6761a4ae.chunk.js",
     "e0e9567f669a80a11376.module.wasm": "/e0e9567f669a80a11376.module.wasm",
     "static/js/2.6761a4ae.chunk.js.map": "/static/js/2.6761a4ae.chunk.js.map",
-    "static/js/3.c1cae59b.chunk.js": "/static/js/3.c1cae59b.chunk.js",
-    "c35be31f9432c14c7585.module.wasm": "/c35be31f9432c14c7585.module.wasm",
-    "static/js/3.c1cae59b.chunk.js.map": "/static/js/3.c1cae59b.chunk.js.map",
-    "main.js": "/static/js/main.faeabab4.chunk.js",
-    "main.js.map": "/static/js/main.faeabab4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.87b24e62.js",
-    "runtime-main.js.map": "/static/js/runtime-main.87b24e62.js.map",
+    "static/js/3.b778ce3f.chunk.js": "/static/js/3.b778ce3f.chunk.js",
+    "860d18d641703a6b43a7.module.wasm": "/860d18d641703a6b43a7.module.wasm",
+    "static/js/3.b778ce3f.chunk.js.map": "/static/js/3.b778ce3f.chunk.js.map",
+    "main.js": "/static/js/main.bac5bae4.chunk.js",
+    "main.js.map": "/static/js/main.bac5bae4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ea69bd17.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ea69bd17.js.map",
     "static/js/6.6aef5fbf.chunk.js": "/static/js/6.6aef5fbf.chunk.js",
     "static/js/6.6aef5fbf.chunk.js.map": "/static/js/6.6aef5fbf.chunk.js.map",
     "index.html": "/index.html",
@@ -31,8 +31,8 @@
     "static/media/wormhole-network.5bb90ed1.svg": "/static/media/wormhole-network.5bb90ed1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.87b24e62.js",
+    "static/js/runtime-main.ea69bd17.js",
     "static/js/6.6aef5fbf.chunk.js",
-    "static/js/main.faeabab4.chunk.js"
+    "static/js/main.bac5bae4.chunk.js"
   ]
 }
