@@ -12,14 +12,14 @@
     "static/js/3.b778ce3f.chunk.js": "/static/js/3.b778ce3f.chunk.js",
     "860d18d641703a6b43a7.module.wasm": "/860d18d641703a6b43a7.module.wasm",
     "static/js/3.b778ce3f.chunk.js.map": "/static/js/3.b778ce3f.chunk.js.map",
-    "main.js": "/static/js/main.b5923039.chunk.js",
-    "main.js.map": "/static/js/main.b5923039.chunk.js.map",
+    "main.js": "/static/js/main.fbc50e27.chunk.js",
+    "main.js.map": "/static/js/main.fbc50e27.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ea69bd17.js",
     "runtime-main.js.map": "/static/js/runtime-main.ea69bd17.js.map",
-    "static/js/6.39896481.chunk.js": "/static/js/6.39896481.chunk.js",
-    "static/js/6.39896481.chunk.js.map": "/static/js/6.39896481.chunk.js.map",
+    "static/js/6.fdfc5a7c.chunk.js": "/static/js/6.fdfc5a7c.chunk.js",
+    "static/js/6.fdfc5a7c.chunk.js.map": "/static/js/6.fdfc5a7c.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/6.39896481.chunk.js.LICENSE.txt": "/static/js/6.39896481.chunk.js.LICENSE.txt",
+    "static/js/6.fdfc5a7c.chunk.js.LICENSE.txt": "/static/js/6.fdfc5a7c.chunk.js.LICENSE.txt",
     "static/media/Discord.3cc30da6.svg": "/static/media/Discord.3cc30da6.svg",
     "static/media/Github.cf553f61.svg": "/static/media/Github.cf553f61.svg",
     "static/media/Medium.a9e68aca.svg": "/static/media/Medium.a9e68aca.svg",
@@ -32,7 +32,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ea69bd17.js",
-    "static/js/6.39896481.chunk.js",
-    "static/js/main.b5923039.chunk.js"
+    "static/js/6.fdfc5a7c.chunk.js",
+    "static/js/main.fbc50e27.chunk.js"
   ]
 }
