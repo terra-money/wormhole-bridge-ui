@@ -3,12 +3,12 @@
     "static/js/0.0cdac4ce.chunk.js": "/static/js/0.0cdac4ce.chunk.js",
     "b8dbb640615142e0940a.module.wasm": "/b8dbb640615142e0940a.module.wasm",
     "static/js/0.0cdac4ce.chunk.js.map": "/static/js/0.0cdac4ce.chunk.js.map",
-    "main.js": "/static/js/main.632f1979.chunk.js",
-    "main.js.map": "/static/js/main.632f1979.chunk.js.map",
+    "main.js": "/static/js/main.6270b6aa.chunk.js",
+    "main.js.map": "/static/js/main.6270b6aa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.70b06aa2.js",
     "runtime-main.js.map": "/static/js/runtime-main.70b06aa2.js.map",
-    "static/js/3.c3141db3.chunk.js": "/static/js/3.c3141db3.chunk.js",
-    "static/js/3.c3141db3.chunk.js.map": "/static/js/3.c3141db3.chunk.js.map",
+    "static/js/3.f8535c6a.chunk.js": "/static/js/3.f8535c6a.chunk.js",
+    "static/js/3.f8535c6a.chunk.js.map": "/static/js/3.f8535c6a.chunk.js.map",
     "static/js/4.17e42ef6.chunk.js": "/static/js/4.17e42ef6.chunk.js",
     "static/js/4.17e42ef6.chunk.js.map": "/static/js/4.17e42ef6.chunk.js.map",
     "static/js/5.9f459097.chunk.js": "/static/js/5.9f459097.chunk.js",
@@ -27,7 +27,7 @@
     "6087d3f15a6453a09ab2.module.wasm": "/6087d3f15a6453a09ab2.module.wasm",
     "static/js/10.f7903983.chunk.js.map": "/static/js/10.f7903983.chunk.js.map",
     "index.html": "/index.html",
-    "static/js/3.c3141db3.chunk.js.LICENSE.txt": "/static/js/3.c3141db3.chunk.js.LICENSE.txt",
+    "static/js/3.f8535c6a.chunk.js.LICENSE.txt": "/static/js/3.f8535c6a.chunk.js.LICENSE.txt",
     "static/media/Discord.9d433876.svg": "/static/media/Discord.9d433876.svg",
     "static/media/Footer.7e77d3ac.png": "/static/media/Footer.7e77d3ac.png",
     "static/media/Github.834f0cd9.svg": "/static/media/Github.834f0cd9.svg",
@@ -54,7 +54,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.70b06aa2.js",
-    "static/js/3.c3141db3.chunk.js",
-    "static/js/main.632f1979.chunk.js"
+    "static/js/3.f8535c6a.chunk.js",
+    "static/js/main.6270b6aa.chunk.js"
   ]
 }
